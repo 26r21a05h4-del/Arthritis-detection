@@ -1,0 +1,10 @@
+{
+  "name": "AI-Based Early Osteoarthritis Screening System",
+  "description": "AI-assisted preliminary screening for knee osteoarthritis and movement abnormalities through computer vision pose analysis and symptom assessment.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
